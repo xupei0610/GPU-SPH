@@ -1,0 +1,3 @@
+#cmakedefine ASSET_PATH "@ASSET_PATH@"
+#cmakedefine LIGHTING_BATCH_SIZE @LIGHTING_BATCH_SIZE@
+
